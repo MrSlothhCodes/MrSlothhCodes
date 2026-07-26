@@ -1,7 +1,6 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=34&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Suryansh+Ahuja;FPGA+%7C+Robotics+%7C+Embedded+AI;Rust+%7C+Verilog+%7C+Python;Building+Hardware+Accelerators" />
-
+##Suryansh Ahuja
+#Embedded System | FPGA | AI
 <br>
 
 <img src="https://img.shields.io/badge/Embedded-0078FF?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
