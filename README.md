@@ -1,120 +1,123 @@
 <div align="center">
 
-# Hi, I'm Suryansh 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=34&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Suryansh+Ahuja;FPGA+%7C+Robotics+%7C+Embedded+AI;Rust+%7C+Verilog+%7C+Python;Building+Hardware+Accelerators" />
 
-### Robotics • FPGA • Embedded Systems • AI
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Building+Hardware+Accelerators;Rust+%7C+Verilog+%7C+Python;FPGA+%2B+AI+Enthusiast;Always+Learning+Something+New"/>
+<img src="https://img.shields.io/badge/Embedded-0078FF?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+<img src="https://img.shields.io/badge/FPGA-8A2BE2?style=for-the-badge&logo=xilinx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Robotics-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-FF4081?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Rust-F97316?style=for-the-badge&logo=rust&logoColor=white"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 🟣 About
 
-```cpp
-class Suryansh {
-public:
-    string role = "Engineering Student";
-    string interests[] = {
-        "FPGA",
-        "Embedded Systems",
-        "Robotics",
-        "Machine Learning",
-        "Rust"
-    };
+I build hardware-software systems with a bias toward
 
-    string current_focus =
-        "Building AI Accelerators using FPGA";
-};
-```
+- ⚡ FPGA acceleration
+- 🤖 Robotics
+- 🦀 Embedded Rust
+- 🧠 Applied Machine Learning
+- 📐 Digital Design
+- 🚀 Practical prototypes that actually run
+
+> **"I care more about working systems than pretty theory slides."**
 
 ---
 
-# ⚡ Tech Stack
+# 🔥 Current Focus
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=rust,cpp,python,c,js,ts,java"/>
-</p>
-
-### Hardware
-
-<p>
-<img src="https://skillicons.dev/icons?i=raspberrypi,arduino"/>
-</p>
-
-FPGA • Verilog • Vivado • STM32 • ESP32
-
-### Software
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,git,docker,vscode,github,fastapi"/>
-</p>
-
----
-
-# 📌 Current Projects
-
-- 🧠 Tiny Transformer on FPGA
+- 🧠 Tiny Transformer Accelerator
 - ⚡ Rust + FPGA Neural Network
 - 🚁 Bicopter Flight Controller
 - 💸 Money Laundering Detection
-- 🤖 Embedded AI
+- 📡 Embedded AI
 
 ---
 
-# 📊 GitHub Stats
+# 🛠 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MrSlothhCodes&show_icons=true&theme=radical&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=rust,python,cpp,c,java,js,ts,linux,git,docker,vscode,fastapi"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSlothhCodes&layout=compact&theme=radical&hide_border=true"/>
+<br><br>
 
-</p>
+**Hardware**
+
+STM32 • ESP32 • Raspberry Pi • FPGA • Verilog • Vivado
+
+</div>
 
 ---
 
-# 🔥 Contribution Graph
+# 📌 Featured Repositories
 
-<p align="center">
+| Project | Description |
+|---------|-------------|
+| 🧠 **BERT-FPGA** | Tiny Transformer acceleration on FPGA |
+| 🚁 **Bicopter Firmware** | Flight controller firmware |
+| ➕ **Verilog Components** | ALU, CLA, Booth Multiplier, UART |
+| 💸 **Money Laundering ML** | Financial anomaly detection |
+| 🏨 **Smart Hotel Manager** | AI-powered hotel management |
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrSlothhCodes&theme=tokyo-night"/>
+---
 
-</p>
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MrSlothhCodes&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF61C3&icon_color=7C3AED&text_color=FFFFFF"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSlothhCodes&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF61C3&text_color=FFFFFF"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrSlothhCodes&theme=react-dark&bg_color=0D1117&color=7C3AED&line=FF61C3&point=00E676&hide_border=true"/>
+
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MrSlothhCodes&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MrSlothhCodes&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=4"/>
 
-</p>
+</div>
 
 ---
 
 # 🌐 Connect
 
-<p>
+<div align="center">
 
 <a href="https://github.com/MrSlothhCodes">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<!-- Replace with your LinkedIn -->
+<a href="https://linkedin.com/in/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### "Hardware is temporary. Timing violations are forever."
+### ⚡ Building efficient systems one clock cycle at a time.
 
 </div>
