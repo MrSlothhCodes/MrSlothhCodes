@@ -1,93 +1,120 @@
 <div align="center">
 
-# Suryansh Ahuja
+# Hi, I'm Suryansh 👋
 
-### Building MCU + FPGA systems, robotics experiments, and applied ML prototypes
+### Robotics • FPGA • Embedded Systems • AI
 
-<img src="https://img.shields.io/badge/Focus-Embedded%20Systems-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Interest-Robotics%20%26%20AI-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Stack-Rust%20%7C%20Python%20%7C%20Verilog-black?style=for-the-badge" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Building+Hardware+Accelerators;Rust+%7C+Verilog+%7C+Python;FPGA+%2B+AI+Enthusiast;Always+Learning+Something+New"/>
 
 </div>
 
 ---
 
-## About
+# 🚀 About Me
 
-I build hardware-software systems with a bias toward:
-- FPGA acceleration
-- embedded control
-- robotics
-- applied machine learning
-- practical prototypes that actually run
+```cpp
+class Suryansh {
+public:
+    string role = "Engineering Student";
+    string interests[] = {
+        "FPGA",
+        "Embedded Systems",
+        "Robotics",
+        "Machine Learning",
+        "Rust"
+    };
 
-I care more about working systems than pretty theory slides.
-
----
-
-## What I work on
-
-- MCU + FPGA hybrid architectures
-- Tiny ML / lightweight transformer experiments
-- Verilog modules and digital design
-- Robotics firmware and control loops
-- Rust and Python tooling for systems work
+    string current_focus =
+        "Building AI Accelerators using FPGA";
+};
+```
 
 ---
 
-## Featured repositories
+# ⚡ Tech Stack
 
-### BERT-FPGA
-Making a BERT in Rust and trying to offload heavy computation onto a Spartan-7 board by streaming work through a Pi.
+### Languages
 
-### Bicopter-Firmware
-Firmware for a bicopter platform.
+<p>
+<img src="https://skillicons.dev/icons?i=rust,cpp,python,c,js,ts,java"/>
+</p>
 
-### 8-Bit-Alu_Calculator-in-Verilog
-FPGA-based 8-bit ALU calculator implemented in Verilog at gate level with button-controlled input capture and multiplexed 7-segment output.
+### Hardware
 
-### Money-Laundering-ml
-Rule-based pattern detection across layered transactions.
+<p>
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino"/>
+</p>
 
-### SmartHotelManager
-Hotel management system with AI features.
+FPGA • Verilog • Vivado • STM32 • ESP32
+
+### Software
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,docker,vscode,github,fastapi"/>
+</p>
 
 ---
 
-## Tech stack
+# 📌 Current Projects
+
+- 🧠 Tiny Transformer on FPGA
+- ⚡ Rust + FPGA Neural Network
+- 🚁 Bicopter Flight Controller
+- 💸 Money Laundering Detection
+- 🤖 Embedded AI
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MrSlothhCodes&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSlothhCodes&layout=compact&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrSlothhCodes&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MrSlothhCodes&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🌐 Connect
+
+<p>
+
+<a href="https://github.com/MrSlothhCodes">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
 
-Rust • Python • C++ • JavaScript • TypeScript • Verilog • FPGA • Linux • Git • FastAPI • Pandas • NumPy • OpenCV
+### "Hardware is temporary. Timing violations are forever."
 
 </div>
-
----
-
-## Current direction
-
-- FPGA-based acceleration
-- embedded perception and control
-- robotics firmware
-- efficient AI inference
-- systems that are small, fast, and useful
-
----
-
-## Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MrSlothhCodes&show_icons=true&theme=tokyonight" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSlothhCodes&layout=compact&theme=tokyonight" height="165" />
-
-</div>
-
----
-
-## Contact
-
-- GitHub: @MrSlothhCodes
-- Portfolio: https://mrslothhcodes.github.io/
-
-</details>
